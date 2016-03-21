@@ -26,6 +26,8 @@ p {
     padding-top: 3px;
     margin-top: 0px;
     text-align:center;
+    border-right-width: 0px;
+    border-top-width: 0px;
 }
 
 #menuheadingbeef {
@@ -38,6 +40,8 @@ p {
     padding-top: 3px;
     margin-top: 0px;
     text-align:center;
+    border-right-width: 0px;
+    border-top-width: 0px;
 }
 
 #menuheadingsushi {
@@ -50,6 +54,8 @@ p {
     padding-top: 3px;
     margin-top: 0px;
     text-align:center;
+    border-right-width: 0px;
+    border-top-width: 0px;
 }
 
 #menuheadingtext {
